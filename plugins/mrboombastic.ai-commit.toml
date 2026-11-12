@@ -4,3 +4,8 @@ repository = "https://github.com/MrBoombastic/OpenIDEA-AICommit"
 version = "1.0.0"
 package = "https://github.com/MrBoombastic/OpenIDEA-AICommit/releases/download/v1.0.0/mrboombastic.ai-commit-1.0.0.oiplugin"
 sha256 = "1e170755d8124bbfee507806f14768a8c0ff1d2cbd2e0a3ba1275d84b5e63787"
+
+[[versions]]
+version = "1.1.0"
+package = "https://github.com/MrBoombastic/OpenIDEA-AICommit/releases/download/v1.1.0/mrboombastic.ai-commit-1.1.0.oiplugin"
+sha256 = "49bafb6d33846bb977a15a7ec23cad6031be423382f95a548c9ed4ad76f4e4c9"
