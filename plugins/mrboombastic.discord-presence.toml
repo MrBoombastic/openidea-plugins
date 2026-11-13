@@ -1,0 +1,6 @@
+repository = "https://github.com/MrBoombastic/OpenIDEA-DiscordPresence"
+
+[[versions]]
+version = "1.0.0"
+package = "https://github.com/MrBoombastic/OpenIDEA-DiscordPresence/releases/download/v1.0.0/mrboombastic.discord-presence-1.0.0.oiplugin"
+sha256 = "40e26dd8cc695d58dcb5d5ab50474b334b8510f1a69ccd1f71048ddbeafd6870"
